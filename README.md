@@ -1,4 +1,4 @@
-# myNotes_Git;
+# Git Learning Notes;
 
 Adding notes for myself about Git:
 
