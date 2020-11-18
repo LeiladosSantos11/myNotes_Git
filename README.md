@@ -25,4 +25,18 @@ Acessing the Git Directory:
 - ls -la or
 - ls -l .git/
 
+To Check the configuration on the file:
+- git config -l
+
+To track the commits:
+- git log
+
+_ More about Commits:  
+- impassioned: https://commit.style/
+
+/* More Information: */
+
+- Linux kernel documentation: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/process/submitting-patches.rst?id=HEAD
+
+- Setting your email in Git: https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
 
