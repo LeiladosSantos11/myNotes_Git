@@ -28,12 +28,12 @@ Acessing the Git Directory:
 
 3 Project Stages:
 - 1: Modified:
-  -git init
-  -git status
+  - git init
+  - git status
 - 2: Staged:
-  -git add.
+  - git add.
 - 3: Commited: 
-  -git commited -m "add comment"
+  - git commited -m "add comment"
 
 To Check the configuration on the file:
 - git config -l
