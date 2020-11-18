@@ -3,8 +3,7 @@
 Adding notes for myself about Git:
 
 
-Course: 
-Introduction to Git and Github (Coursera and Google).
+Course: Introduction to Git and Github (Coursera and Google).
 
 link: 
 https://www.coursera.org/learn/introduction-git-github
