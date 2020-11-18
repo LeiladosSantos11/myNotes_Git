@@ -21,7 +21,7 @@ Git installation instructions for each platform:
 link: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 Acessing the Git Directory:
-ls -la or
-ls -l .git/
+- ls -la or
+- ls -l .git/
 
 
