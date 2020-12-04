@@ -41,6 +41,23 @@ To Check the configuration on the file:
 To track the commits:
 - git log
 
+To add and commit files automatically:
+- git commit -a -m "commment here------"
+
+Produces patch text:
+- git log -p	
+Shows various objects:
+- git show	
+Is similar to the Linux `diff` command, and can show the differences in various commits:
+-git diff	
+
+Allows a user to interactively review patches to add to the current commit:
+- git add -p	
+Similar to the Linux `mv` command, this moves a file:
+- git mv	
+Similar to the Linux `rm` command, this deletes, or removes a file:
+- git rm	
+
 _ More about Commits:  
 - impassioned: https://commit.style/
 
@@ -51,4 +68,6 @@ _ More about Commits:
 - Setting your email in Git: https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
 
 - "Keeping your email address private: https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
+ 
+ - Advanced Git Cheat Sheet: https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---all
 
