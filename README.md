@@ -53,7 +53,7 @@ Shows various objects:
 - git show	
 
 Is similar to the Linux `diff` command, and can show the differences in various commits:
--git diff	
+- git diff	
 
 Allows a user to interactively review patches to add to the current commit:
 - git add -p	
