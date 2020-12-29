@@ -62,7 +62,7 @@ Similar to the Linux `mv` command, this moves a file:
 - git mv	
 
 Similar to the Linux `rm` command, this deletes, or removes a file:
-- git rm	
+- git rm .git	
 
 
 _ More about Commits:  
